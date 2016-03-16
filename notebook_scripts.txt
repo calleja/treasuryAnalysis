@@ -1,0 +1,5 @@
+~/.ipython/profile_default/security/../db
+
+mv ~/.ipython/profile_default/security/../db /home/lechuza/tmpPy
+/home/lechuza/anaconda3
+mkdir /home/lechuza/tmpPy
